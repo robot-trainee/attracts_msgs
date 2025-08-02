@@ -8,6 +8,8 @@ find_package(std_msgs REQUIRED)
 
 set(msg_files
   "msg/AttractsCommand.msg"
+  "msg/GameDataInput.msg"
+  "msg/GameDataRobot.msg"
 )
 # set(srv_files
 #   "srv/CalcTwoFloats.srv"
